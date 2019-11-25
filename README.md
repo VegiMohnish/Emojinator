@@ -22,4 +22,4 @@
   5. Finally, run Emojinator.py for testing your model via webcam.
 
 # Demo
-![2Finger](https://user-images.githubusercontent.com/47086699/69541956-687e7480-0fb0-11ea-8fbb-3bc1d612d60a.png)
+![2Finger](https://user-images.githubusercontent.com/47086699/69543315-52be7e80-0fb3-11ea-918d-72e350d7e5b3.png)
