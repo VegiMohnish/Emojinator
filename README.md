@@ -20,3 +20,6 @@
   3. Run CreateCSV.py for converting the images to a CSV file
   4. If you want to train the model, run 'TrainEmojinator.py'
   5. Finally, run Emojinator.py for testing your model via webcam.
+
+# Demo
+![2Finger](https://user-images.githubusercontent.com/47086699/69541956-687e7480-0fb0-11ea-8fbb-3bc1d612d60a.png)
