@@ -23,3 +23,5 @@
 
 # Demo
 ![2Finger](https://user-images.githubusercontent.com/47086699/69543315-52be7e80-0fb3-11ea-918d-72e350d7e5b3.png)
+![Hand without Finger](https://user-images.githubusercontent.com/47086699/69543531-d4161100-0fb3-11ea-80f1-a2c161e938bb.png)
+![Hand Normal](https://user-images.githubusercontent.com/47086699/69543828-6cac9100-0fb4-11ea-9105-fda6f8671aeb.png)
